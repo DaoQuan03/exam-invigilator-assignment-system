@@ -1,0 +1,25 @@
+﻿{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run ClientApp",
+      "request": "launch",
+      "mainClass": "ClientApp",
+      "projectName": "jdt.ls-java-project",
+      "classPaths": [
+        "C:/10000hcode)))))/Java/BaithiTH/libs/*"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Run ServerApp",
+      "request": "launch",
+      "mainClass": "ServerApp",
+      "projectName": "jdt.ls-java-project",
+      "classPaths": [
+        "C:/10000hcode)))))/Java/BaithiTH/libs/*"
+      ]
+    }
+  ]
+}
