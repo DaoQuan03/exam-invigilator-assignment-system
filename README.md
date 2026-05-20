@@ -428,8 +428,7 @@ GitHub: [@DaoQuan03](https://github.com/DaoQuan03)
 
 For issues, questions, or suggestions:
 - Open an [Issue](https://github.com/DaoQuan03/exam-invigilator-assignment-system/issues)
-- Check existing documentation
-- Review the code comments for implementation details
+- Email: daoquan20032005@gmail.com
 
 ---
 
